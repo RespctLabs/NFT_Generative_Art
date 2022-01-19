@@ -1,0 +1,41 @@
+{
+  "name": "MetaBunny #2",
+  "description": "This is the first ever MetaBunny of the collection. Folks who own it are the ones who trusted the bunny when no one else did! It’s not just a bunny. It’s an insignia of a new club, a revolution in the creator economy. Hold this bunny close dear clubbers, it’s worth it! (Internally we call him Bunny Kapoor)",
+  "file_url": "ipfs://NewUriToReplace/2.png",
+  "custom_fields": {
+    "dna": "33f9c0add9a15304d43d16af3804204b34422565",
+    "edition": 2,
+    "date": 1642597757106,
+    "compiler": "HashLips Art Engine"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "High"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ]
+}
